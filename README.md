@@ -30,11 +30,11 @@ This repo only contains the ADMIN interface/Panel of the application. The User I
 ![[user6.png]]
 
 ## Conceptual Database Schema
-![[WhatsApp Image 2021-06-23 at 23.18.45.jpeg]]
+![[ConceptualDBDesign.jpeg]]
 
 ## Enhanced Entity-Relationship Diagram 
 
-![[WhatsApp Image 2021-06-23 at 23.18.47.jpeg]]
+![[EERD.jpeg]]
 
 ## Logical Database Design
-![[WhatsApp Image 2021-06-23 at 23.18.48 1.jpeg]]
+![[LogicalDBDesign.jpeg]]
