@@ -5,23 +5,31 @@ I build this web-based application for my Database Systems Course semester proje
 - It has an User Interface that allows user to register account or sign-in and order an E-bike from nearest station. 
 - It has an user-authentication feature for USER interface.
 
-## NOTE:
-This repo only contains the ADMIN interface/Panel of the application. The User Interface code will be uploaded later. Also, it is just a prototype.
+## NOTE
+This repo only contains the ADMIN interface/Panel of the application. The User Interface code will be uploaded later. Also, it is just a prototype. 
 
-## Tech Stack:
+## Tech Stack
 - ASP.NET
 - C# 
 - HTML
 - CSS
 - JavaScript
 - MySQL Database
+## pre-requisites
+- Visual Studio (2019 and above)
+- MySQL (https://dev.mysql.com/downloads/installer/)
+- MySQL workbench 8.0 OR MySQL shell/CLI
+
+## Execution 
+- Develop a MySQL database using the attached MySQL DB script 
+- Connect the database with Visual Studio 
+- Run the application on localhost for testing
 
 ## SS of ADMIN Interface 
 
 ![Admin!](https://user-images.githubusercontent.com/75529175/157928133-0d84b3ca-7e2a-4f88-93f3-719ed3d68156.png)
 ![Admin2](https://user-images.githubusercontent.com/75529175/157928196-e2c1e16a-dab3-40bb-a872-d1ae25232595.png)
 ![Admin3](https://user-images.githubusercontent.com/75529175/157928221-1d649f97-8241-4b0d-a7e7-86251cb1e2d0.png)
-
 
 ## SS of USER Interface 
 ![user1](https://user-images.githubusercontent.com/75529175/157928324-45ad59bf-7027-4f10-9c70-e72eff0adc0c.png)
